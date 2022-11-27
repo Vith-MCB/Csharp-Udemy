@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\functionsAndMethods.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\functionsAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\functionsAndMethods.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\functionsAndMethods.AssemblyInfo.cs
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\functionsAndMethods.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\bin\Debug\net6.0\functionsAndMethods.exe
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\bin\Debug\net6.0\functionsAndMethods.deps.json
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\bin\Debug\net6.0\functionsAndMethods.runtimeconfig.json
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\bin\Debug\net6.0\functionsAndMethods.dll
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\bin\Debug\net6.0\functionsAndMethods.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\functionsAndMethods.dll
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\refint\functionsAndMethods.dll
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\functionsAndMethods.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\functionsAndMethods.genruntimeconfig.cache
+D:\Visual Studio\Projects\Csharp-Udemy\functionsAndMethods\functionsAndMethods\obj\Debug\net6.0\ref\functionsAndMethods.dll

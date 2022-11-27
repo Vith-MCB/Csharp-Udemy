@@ -1,0 +1,17 @@
+## Methods
+
+How to define:
+
+<acess specifier> <return type> <method name>(paramethers)
+{
+	method body
+}
+
+acess specifier: Determines the visibility of a variable or a method from another class.
+
+return type: The data type of the value the method returns. Void if no value is beeing returned.
+
+EX: 
+public int Add(int num1, int num2){
+	return num1 + num2;
+}
