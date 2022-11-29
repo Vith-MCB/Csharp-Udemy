@@ -34,6 +34,9 @@ GreetFriend(friend3);
 
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
 
+/*
+ * Methods Challenge
+
 using System;
 
 namespace Coding.Exercise
@@ -43,10 +46,14 @@ namespace Coding.Exercise
         // Place for your methods
 
 
-        string LowUpper(string s)
+        static public string LowUpper(string s)
         {
-            string sumString = s.ToLower + s.ToUpper;
-            return sumString;
+            return s.ToLower() + s.ToUpper();
+        }
+
+        static public void Count(string s)
+        {
+            Console.WriteLine("The amount of characters is {0}.",s.Length);
         }
 
         public static void Run()
@@ -61,6 +68,38 @@ namespace Coding.Exercise
             Count(s);
 
         }
+        public static void Main(string[] args) { Run(); }
     }
 }
+*/
 
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+
+/*
+ * Try, Catch and Finally
+
+Console.WriteLine("Enter a number: ");
+string userInput = Console.ReadLine();
+
+try
+{
+    int userInputAsInt = int.Parse(userInput); //The program tries to transform the string to a int
+}
+
+//catch (Exception) is a generic exception, used when you dont know what type of error to expect
+
+catch(FormatException) 
+{
+    Console.WriteLine("Format exception, please enter a valid type (int)!");
+}
+catch (OverflowException)
+{
+    Console.WriteLine("The input is either too long or too short for an int32!");
+}
+finally
+{
+    Console.WriteLine("This is called anyways!");
+}
+ */
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
