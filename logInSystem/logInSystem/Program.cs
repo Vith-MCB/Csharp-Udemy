@@ -58,5 +58,4 @@
         bool CheckUserPassWordData( string passWordLogInInput) => passWordLogInInput.Equals(newUser.passWord);
     }
 
-    
 }
