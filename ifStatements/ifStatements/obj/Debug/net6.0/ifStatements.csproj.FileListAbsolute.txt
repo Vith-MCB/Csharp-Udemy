@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.exe
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.deps.json
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.runtimeconfig.json
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.dll
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.AssemblyInfo.cs
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.dll
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\refint\ifStatements.dll
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.genruntimeconfig.cache
+D:\Visual Studio\Projects\Csharp-Udemy\ifStatements\ifStatements\obj\Debug\net6.0\ref\ifStatements.dll
