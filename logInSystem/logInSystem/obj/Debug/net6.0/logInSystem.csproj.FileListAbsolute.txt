@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\bin\Debug\net6.0\logInSystem.exe
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\bin\Debug\net6.0\logInSystem.deps.json
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\bin\Debug\net6.0\logInSystem.runtimeconfig.json
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\bin\Debug\net6.0\logInSystem.dll
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\bin\Debug\net6.0\logInSystem.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\logInSystem.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\logInSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\logInSystem.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\logInSystem.AssemblyInfo.cs
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\logInSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\logInSystem.dll
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\refint\logInSystem.dll
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\logInSystem.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\logInSystem.genruntimeconfig.cache
+D:\Visual Studio\Projects\Csharp-Udemy\logInSystem\logInSystem\obj\Debug\net6.0\ref\logInSystem.dll
