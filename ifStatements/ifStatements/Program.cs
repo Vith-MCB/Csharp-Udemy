@@ -124,3 +124,33 @@ namespace Coding.Exercise
 }
 
  */
+
+/*
+ * Switch Statement
+ 
+
+int age = 20;
+switch (age)
+{
+    case 0: //If age = 0
+        Console.WriteLine("Almost a newborn!");
+        break;
+
+    case 5:
+        Console.WriteLine("You are a child now!");
+        break;
+
+    case 15:
+        Console.WriteLine("Almost an adult!");
+        break;
+
+    case 20:
+        Console.WriteLine("Adult life, here we go!");
+        break;
+
+    default: //None of other statements were satisfied
+        Console.WriteLine("How old are you then?");
+        break;
+}
+
+*/
