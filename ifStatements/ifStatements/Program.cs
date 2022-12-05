@@ -125,6 +125,8 @@ namespace Coding.Exercise
 
  */
 
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+
 /*
  * Switch Statement
  
@@ -151,6 +153,54 @@ switch (age)
     default: //None of other statements were satisfied
         Console.WriteLine("How old are you then?");
         break;
+}
+
+*/
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+
+/*
+ * Ternary operators (If statements)
+ * 
+ * condition ? first_expression : second_expression;
+ * condition has to be either true or false
+ * 
+ * Ex:
+
+
+int temperature = -5;
+string stateOfMatter;
+
+// if (temperature < 0) { stateOfMatter= "solid"; } else { stateOfMatter = "liquid"; }
+//In short:
+
+stateOfMatter = temperature < 0 ? "solid" : "liquid";
+
+Console.WriteLine(stateOfMatter);
+
+stateOfMatter = temperature > 100 ? "gas" : temperature < 0 ? "solid" : "liquid";
+
+
+
+//CHALLENGE
+
+string temperatureString = "";
+int temperature = 0;
+
+Console.WriteLine("Insert the temperature:");
+temperatureString = Console.ReadLine();
+
+bool sucess = int.TryParse(temperatureString, out temperature);
+if (sucess)
+{
+    string message;
+
+    message = temperature <= 15 ? "It's too cold here" : temperature <= 28 ? "it's okay" : "it's hot here!";
+    Console.WriteLine(message);
+}
+else
+{
+    Console.WriteLine("The Value is invalid!");
 }
 
 */
