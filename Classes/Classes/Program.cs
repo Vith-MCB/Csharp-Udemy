@@ -1,4 +1,5 @@
-﻿//Crating object of my class
+﻿/*
+//Crating object of my class
 
 using Classes;
 
@@ -18,3 +19,18 @@ person2.IntroduceMyself();
 
 Human basicHuman = new Human(); //Using basic constructor
 basicHuman.IntroduceMyself();
+*/
+
+using Classes;
+
+Box box = new Box(20,30,10);
+
+Console.WriteLine("Box Height is: {0}", box.Height);
+
+Console.WriteLine("Box Width is: {0}", box.Width);
+
+Console.WriteLine("Box length is: {0}", box.GetLength());
+
+Console.WriteLine("Box volume is: {0}", box.Volume);
+
+Console.WriteLine("Box Front Surface is: {0}", box.FrontSurface);
