@@ -49,7 +49,7 @@ foreach (string name in friends)
  */
 
 /* CHALLENGE!
- */
+
 using System;
 
 namespace Coding.Exercise
@@ -78,7 +78,7 @@ namespace Coding.Exercise
             }
         }
 
-        public static void Main(string[] args)
+        public static void Run()
         {
             int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
@@ -88,3 +88,4 @@ namespace Coding.Exercise
         }
     }
 }
+ */
