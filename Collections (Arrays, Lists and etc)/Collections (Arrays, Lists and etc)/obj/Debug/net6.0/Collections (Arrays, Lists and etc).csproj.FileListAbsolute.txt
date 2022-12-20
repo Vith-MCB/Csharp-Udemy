@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\Collections (Arrays, Lists and etc).csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\Collections (Arrays, Lists and etc).GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\Collections (Arrays, Lists and etc).AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\Collections (Arrays, Lists and etc).AssemblyInfo.cs
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\Collections (Arrays, Lists and etc).csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\bin\Debug\net6.0\Collections (Arrays, Lists and etc).exe
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\bin\Debug\net6.0\Collections (Arrays, Lists and etc).deps.json
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\bin\Debug\net6.0\Collections (Arrays, Lists and etc).runtimeconfig.json
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\bin\Debug\net6.0\Collections (Arrays, Lists and etc).dll
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\bin\Debug\net6.0\Collections (Arrays, Lists and etc).pdb
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\Collections (Arrays, Lists and etc).dll
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\refint\Collections (Arrays, Lists and etc).dll
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\Collections (Arrays, Lists and etc).pdb
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\Collections (Arrays, Lists and etc).genruntimeconfig.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Collections (Arrays, Lists and etc)\Collections (Arrays, Lists and etc)\obj\Debug\net6.0\ref\Collections (Arrays, Lists and etc).dll

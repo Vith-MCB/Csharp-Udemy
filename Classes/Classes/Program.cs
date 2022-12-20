@@ -22,6 +22,7 @@ basicHuman.IntroduceMyself();
 */
 
 using Classes;
+using MembersC;
 
 Box box = new Box(20,30,10);
 
@@ -34,3 +35,7 @@ Console.WriteLine("Box length is: {0}", box.GetLength());
 Console.WriteLine("Box volume is: {0}", box.Volume);
 
 Console.WriteLine("Box Front Surface is: {0}", box.FrontSurface);
+
+Members member = new Members("Vitor", "Programmer", 20,2000);
+
+member.IntroduceYourself(false);
