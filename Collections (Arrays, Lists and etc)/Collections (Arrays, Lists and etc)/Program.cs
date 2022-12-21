@@ -89,3 +89,101 @@ namespace Coding.Exercise
     }
 }
  */
+
+/*
+ * MULTI DIMENSIONAL ARRAYS
+
+int[,] array2D = new int[,]
+{
+    {1,2,3}, // row 0
+    {4,5,6}, // row 1
+    {7,8,9}  // row 2
+};
+
+Console.WriteLine("Central value {0}", array2D[1,1]);
+
+//printing diagonals
+
+for(int i = 0; i <= 2; i++) //Printing principal diagonal
+{
+    Console.WriteLine("Principal diagonal: {0}", array2D[i,i]);
+}
+
+
+Console.WriteLine();
+
+int count = 0;
+for (int j = 2; j >= 0; j--) //Printing inverse diagonal
+{
+    Console.WriteLine("Inverse diagonal: {0}", array2D[j, count]);
+    count++;
+}
+
+
+// ".Rank" can be used to return the number of dimentions of the array
+
+int[] ints= new int[2];
+Console.WriteLine("Dimentions: {0}", ints.Rank);
+
+int[,] ints2D = new int[2,2];
+Console.WriteLine("Dimentions: {0}", ints2D.Rank);
+
+ */
+
+/*
+ * NESTED FOR LOOPS AND 2D ARRAYS
+
+
+class Program
+{
+    static int[,] matrix =
+    {
+        {1,2,3},
+        {4,5,6},
+        {7,8,9}
+    };
+
+    static void Main(string[] args)
+    {
+        foreach (int item in matrix) // Using froreach to go through every element of "matrix", values can't be changed
+        {
+            Console.Write(item+" ");
+        }
+
+        /*
+         * Console.WriteLine("\n\nChanging values of the matrix!\n");
+         *
+
+        for (int i = 0; i < matrix.GetLength(0); i++) //Using GetLenght to get the lenght of the first line (0)
+        {
+            //Inner for loop
+            for (int j = 0; j < matrix.GetLength(0); j++)
+            {
+                matrix[i,j] = 0;
+            }
+        }
+
+        foreach (int item in matrix) // Using froreach to go through every element of "matrix", after the values was changed
+        {
+            Console.Write(item + " ");
+        }
+        */
+
+        /*
+         * Printing odd values of the matrix
+
+        Console.WriteLine("\n\nPrinting odd values of the matrix!\n");
+
+        for (int i = 0; i < matrix.GetLength(0); i++) //Using GetLenght to get the lenght of the first line (0)
+        {
+            //Inner for loop
+            for (int j = 0; j < matrix.GetLength(0); j++)
+            {
+                
+                if (matrix[i, j] % 2 == 0) { Console.Write(matrix[i, j] + " "); }
+            }
+        }
+
+    }
+}
+*/
