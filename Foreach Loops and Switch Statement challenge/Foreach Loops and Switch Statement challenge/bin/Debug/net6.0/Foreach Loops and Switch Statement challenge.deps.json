@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Foreach Loops and Switch Statement challenge/1.0.0": {
+        "runtime": {
+          "Foreach Loops and Switch Statement challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Foreach Loops and Switch Statement challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

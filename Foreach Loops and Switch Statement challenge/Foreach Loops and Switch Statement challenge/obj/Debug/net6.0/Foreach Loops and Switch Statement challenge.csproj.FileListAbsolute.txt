@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\Foreach Loops and Switch Statement challenge.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\Foreach Loops and Switch Statement challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\Foreach Loops and Switch Statement challenge.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\Foreach Loops and Switch Statement challenge.AssemblyInfo.cs
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\Foreach Loops and Switch Statement challenge.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net6.0\Foreach Loops and Switch Statement challenge.exe
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net6.0\Foreach Loops and Switch Statement challenge.deps.json
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net6.0\Foreach Loops and Switch Statement challenge.runtimeconfig.json
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net6.0\Foreach Loops and Switch Statement challenge.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net6.0\Foreach Loops and Switch Statement challenge.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\Foreach Loops and Switch Statement challenge.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\refint\Foreach Loops and Switch Statement challenge.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\Foreach Loops and Switch Statement challenge.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\Foreach Loops and Switch Statement challenge.genruntimeconfig.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net6.0\ref\Foreach Loops and Switch Statement challenge.dll
