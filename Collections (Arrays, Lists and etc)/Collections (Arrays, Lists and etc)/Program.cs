@@ -169,21 +169,85 @@ class Program
         }
         */
 
-        /*
-         * Printing odd values of the matrix
+/*
+ * Printing odd values of the matrix
 
-        Console.WriteLine("\n\nPrinting odd values of the matrix!\n");
+Console.WriteLine("\n\nPrinting odd values of the matrix!\n");
 
-        for (int i = 0; i < matrix.GetLength(0); i++) //Using GetLenght to get the lenght of the first line (0)
-        {
-            //Inner for loop
-            for (int j = 0; j < matrix.GetLength(0); j++)
-            {
-                
-                if (matrix[i, j] % 2 == 0) { Console.Write(matrix[i, j] + " "); }
-            }
-        }
+for (int i = 0; i < matrix.GetLength(0); i++) //Using GetLenght to get the lenght of the first line (0)
+{
+    //Inner for loop
+    for (int j = 0; j < matrix.GetLength(0); j++)
+    {
 
+        if (matrix[i, j] % 2 == 0) { Console.Write(matrix[i, j] + " "); }
     }
 }
+
+}
+}
 */
+
+/*
+ * Jagged arrays (Arrays inside an Array)
+
+
+//Declair jagged array (first way)
+int[][] jaggedArray = new int[3][]; //3 arrays inside of one array
+
+jaggedArray[0] = new int[3]; //Array of 3 elements at the first position
+jaggedArray[1] = new int[5]; //Array of 1 elements at the first position
+jaggedArray[2] = new int[1]; //Array of 1 element at the first position
+
+jaggedArray[0] = new int[] { 1, 5, 11 };
+jaggedArray[1] = new int[] { 4, 15, 1, 2, 1 };
+jaggedArray[2] = new int[] { 2 };
+
+//alternative way
+int[][] jaggedArray2 = new int[][]
+{
+    new int[] { 1, 5, 11 },
+    new int[] { 4, 15, 1, 2, 1 },
+    new int[] { 2 }
+};
+
+//Printing the middle value of the first and second input of the array
+Console.WriteLine("Middle element: {0}", jaggedArray[0][1]);
+Console.WriteLine("Middle element: {0}", jaggedArray2[1][2]);
+
+for(int i = 0; i < jaggedArray.Length; i++) {
+    Console.WriteLine("\nElement: {0}\n",i);
+    Console.WriteLine("Array: ");
+    for(int j = 0; j < jaggedArray[i].Length; j++)
+    {
+        Console.Write("{0} ", jaggedArray[i][j]);
+    }
+    Console.WriteLine("\n");
+}
+ */
+
+/*
+ * JAGGED ARRAY CHALLENGE
+ */
+
+//Create a jagged array which contains 3 "friends arrays", in wich 2 family members should be stored
+//Describe family
+
+string[][] friendsArray = new string[3][]
+{
+    new string[] {"Joe", "Peter", "Jan"},
+    new string[] {"Chloe", "Jordan", "Camille"},
+    new string[] {"Noah", "Gabriel", "Alex"}
+};
+
+for(int i = 0; i< friendsArray.Length; i++)
+{
+    Console.WriteLine("{0}'s family: ", friendsArray[i][0]);
+    for(int j = 0; j < friendsArray[i].Length; j++)
+    {
+        if (j == 1) { Console.Write(" Dad: {0}  ||", friendsArray[i][j]); } 
+        else if(j == 2) { Console.Write(" Mom: {0}\n", friendsArray[i][j]); }
+        else {Console.Write("Child: {0}  ||", friendsArray[i][j]); }
+    }
+    Console.WriteLine("\n");
+}
