@@ -228,7 +228,7 @@ for(int i = 0; i < jaggedArray.Length; i++) {
 
 /*
  * JAGGED ARRAY CHALLENGE
- */
+
 
 //Create a jagged array which contains 3 "friends arrays", in wich 2 family members should be stored
 //Describe family
@@ -251,3 +251,69 @@ for(int i = 0; i< friendsArray.Length; i++)
     }
     Console.WriteLine("\n");
 }
+ */
+
+/*
+ * USING ARRAYS AS PARAMETHERS
+
+
+static double GetAverage(int[] gradesArray)
+{
+    double sumOfGrades = 0;
+    for(int i = 0; i < gradesArray.Length; i++)
+    {
+        sumOfGrades += gradesArray[i];
+    }
+    return sumOfGrades/gradesArray.Length;
+}
+
+int[] grades = new int[6];
+grades[0] = 15;
+grades[1] = 13;
+grades[2] = 8;
+grades[3] = 12;
+grades[4] = 6;
+grades[5] = 16;
+
+Console.WriteLine(GetAverage(grades));
+
+ */
+
+/*
+ * USING ARRAYS AS PARAMETHERS CHALLANGE (HAPPINESS)
+
+
+static void IncreaseHapiness(int[] happinessArray)
+{
+    for(int i = 0; i < happinessArray.Length; i++)
+    {
+        happinessArray[i] += 2;
+    }
+}
+
+int[] happiness = new int[] {12,13,19,1,4};
+IncreaseHapiness(happiness);
+
+foreach (int happyGrade in happiness)
+{
+    Console.WriteLine("The New happy grade is: {0}",happyGrade);
+}
+ 
+ */
+
+/*
+ * Creating Min function
+ */
+
+static int MinV2(params int[] values)
+{
+    int minValue = int.MaxValue;
+    foreach (var number in values)
+    {
+        if(number < minValue) { minValue = number; }
+    }
+    return minValue;
+}
+
+Console.WriteLine("The minimum number is: {0}",MinV2(2,4,5,-8,2,1));
+
