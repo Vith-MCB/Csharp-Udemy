@@ -90,8 +90,7 @@ namespace Coding.Exercise
 }
  */
 
-/*
- * MULTI DIMENSIONAL ARRAYS
+/*MULTI DIMENSIONAL ARRAYS
 
 int[,] array2D = new int[,]
 {
@@ -130,8 +129,7 @@ Console.WriteLine("Dimentions: {0}", ints2D.Rank);
 
  */
 
-/*
- * NESTED FOR LOOPS AND 2D ARRAYS
+/* NESTED FOR LOOPS AND 2D ARRAYS
 
 
 class Program
@@ -169,8 +167,7 @@ class Program
         }
         */
 
-/*
- * Printing odd values of the matrix
+/* Printing odd values of the matrix
 
 Console.WriteLine("\n\nPrinting odd values of the matrix!\n");
 
@@ -188,8 +185,7 @@ for (int i = 0; i < matrix.GetLength(0); i++) //Using GetLenght to get the lengh
 }
 */
 
-/*
- * Jagged arrays (Arrays inside an Array)
+/* Jagged arrays (Arrays inside an Array)
 
 
 //Declair jagged array (first way)
@@ -226,8 +222,7 @@ for(int i = 0; i < jaggedArray.Length; i++) {
 }
  */
 
-/*
- * JAGGED ARRAY CHALLENGE
+/* JAGGED ARRAY CHALLENGE
 
 
 //Create a jagged array which contains 3 "friends arrays", in wich 2 family members should be stored
@@ -253,8 +248,7 @@ for(int i = 0; i< friendsArray.Length; i++)
 }
  */
 
-/*
- * USING ARRAYS AS PARAMETHERS
+/* USING ARRAYS AS PARAMETHERS
 
 
 static double GetAverage(int[] gradesArray)
@@ -279,8 +273,7 @@ Console.WriteLine(GetAverage(grades));
 
  */
 
-/*
- * USING ARRAYS AS PARAMETHERS CHALLANGE (HAPPINESS)
+/* USING ARRAYS AS PARAMETHERS CHALLANGE (HAPPINESS)
 
 
 static void IncreaseHapiness(int[] happinessArray)
@@ -301,9 +294,8 @@ foreach (int happyGrade in happiness)
  
  */
 
-/*
- * Creating Min function
- */
+/*Creating Min function
+
 
 static int MinV2(params int[] values)
 {
@@ -317,3 +309,8 @@ static int MinV2(params int[] values)
 
 Console.WriteLine("The minimum number is: {0}",MinV2(2,4,5,-8,2,1));
 
+ */
+
+/*
+ * COLLECTIONS
+ */
