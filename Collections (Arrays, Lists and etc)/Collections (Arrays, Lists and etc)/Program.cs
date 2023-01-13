@@ -313,4 +313,82 @@ Console.WriteLine("The minimum number is: {0}",MinV2(2,4,5,-8,2,1));
 
 /*
  * COLLECTIONS
+
+
+//___________________________________________________________________________________________//
+// ARRAYLISTS
+
+
+using System.Collections;
+
+//Declaring an ArrayList (System.Collections must be used)
+ArrayList myArrayListUnd = new ArrayList(); //undefined amount of objects
+ArrayList myArrayList2Def = new ArrayList(10); //defined amount of objects (10)
+
+myArrayListUnd.Add("Test");
+myArrayListUnd.Add(1.3);
+myArrayListUnd.Add("Vitor");
+
+myArrayListUnd.Remove("Test"); //Remove element with specific value
+myArrayListUnd.RemoveAt(0);
+
+foreach(object obj in myArrayListUnd)
+{
+   Console.WriteLine(obj);
+}
+//___________________________________________________________________________________________//
+
+//LISTS
+
+
+
+var numbers = new List<int>(); //Undefined Integer list
+var numbers2 = new List<int> { 5,4,3,6,3}; //Defined Integer list
+
+numbers.Add(1);
+numbers2.Add(2);
+numbers.Clear(); // Clears the entire list
+
+//Looping through the list 
+foreach(int element in numbers2) 
+{
+    Console.WriteLine(element);
+}
+
+for(int i = 0; i < numbers2.Count; i++) //.Count returns the size of the list
+{
+    Console.WriteLine(numbers2[i]);
+}
+
+ */
+
+/*
+ * LIST CHALLENGE
+
+
+//Write a method that returns a list of even integer numbers between 100 and 170 (inclusive).
+
+using System;
+using System.Collections.Generic;
+namespace Coding.Exercise
+{
+    public class ListsExercise
+    {
+
+        public static List<int> Solution()
+        {
+            var list = new List<int> { 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170 };
+            var result = new List<int>();
+            foreach(int element in list)
+            {
+                if (element % 2 == 0)
+                {
+                    result.Add(element);
+                }
+            }
+            return result;
+        }
+
+    }
+}
  */
