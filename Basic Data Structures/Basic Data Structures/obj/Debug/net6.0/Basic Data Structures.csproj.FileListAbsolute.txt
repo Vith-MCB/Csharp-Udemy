@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\bin\Debug\net6.0\Basic Data Structures.exe
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\bin\Debug\net6.0\Basic Data Structures.deps.json
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\bin\Debug\net6.0\Basic Data Structures.runtimeconfig.json
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\bin\Debug\net6.0\Basic Data Structures.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\bin\Debug\net6.0\Basic Data Structures.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\Basic Data Structures.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\Basic Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\Basic Data Structures.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\Basic Data Structures.AssemblyInfo.cs
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\Basic Data Structures.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\Basic Data Structures.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\refint\Basic Data Structures.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\Basic Data Structures.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\Basic Data Structures.genruntimeconfig.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Basic Data Structures\Basic Data Structures\obj\Debug\net6.0\ref\Basic Data Structures.dll
