@@ -155,3 +155,69 @@ class Student //May be created in another file, but for better explanation, is d
  * DICTIONARIES
  */
 
+Dictionary<int, string> myDictionary //This dictionary has a key of int type and the value is a string
+    = new Dictionary<int, string>()
+    {
+        {1,"one" },
+        {2,"two"},
+        {3,"three"}
+    };
+
+/* The values can also be stored this whay
+myDictionary.Add(1, "one");
+myDictionary.Add(2, "two");
+myDictionary.Add(3, "three");
+*/
+
+Employee[] employees =
+{
+    new Employee("CEO", "David",45,200),
+    new Employee("Manager", "Michael",35,25),
+    new Employee("HR","Toby",32,21)
+};
+
+Dictionary<string, Employee> employeesDirectory = new Dictionary<string, Employee>(); //Employeed dictionary
+
+foreach(Employee emp in employees)
+{
+    employeesDirectory.Add(emp.Role, emp);
+}
+
+string key = "CEO";
+
+if (employeesDirectory.ContainsKey(key))
+{
+    Employee CEO = employeesDirectory["CEO"];
+    Console.WriteLine("CEO Name {0}, salary: {1}", CEO.Name, CEO.Salary);
+}
+else
+{
+    Console.WriteLine("This key does not exists in the dictionary!");
+}
+
+
+
+class Employee
+{
+    public string Role { get; set; }
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public float Rate { get; set; }
+
+    //Yearly Salary = rate/h * number of days * number of weeks * number of months
+    public float Salary
+    {
+        get
+        {
+            return Rate * 8 * 5 * 4 * 12;
+        }
+
+    }
+    public Employee(string role, string name, int age, float rate) 
+    {
+        this.Role = role;
+        this.Name = name;
+        this.Age = age;
+        this.Rate = rate;
+    }
+}
