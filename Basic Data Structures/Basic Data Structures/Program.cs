@@ -183,6 +183,7 @@ foreach(Employee emp in employees)
     employeesDirectory.Add(emp.Role, emp);
 }
 
+#region Fetching Data from the dictionary
 string key = "CEO";
 
 if (employeesDirectory.ContainsKey(key))
@@ -194,6 +195,31 @@ else
 {
     Console.WriteLine("This key does not exists in the dictionary!");
 }
+
+Employee result = null;
+
+if(employeesDirectory.TryGetValue("Manager", out result))
+{
+    Console.WriteLine("Value retrived!");
+
+    Console.WriteLine("Employee name: {0}", result.Name);
+}
+
+for(int i = 0; i < employeesDirectory.Count; i++)
+{
+    //Using ElementAt(i) to return key-type value stored at i index
+    KeyValuePair<string, Employee> keyValuePair = employeesDirectory.ElementAt(i);
+    //printing key
+    Console.WriteLine("Key {0}", keyValuePair.Key);
+
+    Employee employeeValue = keyValuePair.Value;
+
+    //printing the properties of the employee object
+    Console.WriteLine("Emp Name: {0}", employeeValue.Name);
+}
+
+#endregion
+
 
 
 
