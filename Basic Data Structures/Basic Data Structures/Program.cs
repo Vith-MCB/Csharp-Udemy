@@ -153,7 +153,7 @@ class Student //May be created in another file, but for better explanation, is d
 
 /*
  * DICTIONARIES
- */
+
 
 Dictionary<int, string> myDictionary //This dictionary has a key of int type and the value is a string
     = new Dictionary<int, string>()
@@ -162,12 +162,13 @@ Dictionary<int, string> myDictionary //This dictionary has a key of int type and
         {2,"two"},
         {3,"three"}
     };
+ */
 
 /* The values can also be stored this whay
 myDictionary.Add(1, "one");
 myDictionary.Add(2, "two");
 myDictionary.Add(3, "three");
-*/
+
 
 Employee[] employees =
 {
@@ -185,6 +186,7 @@ foreach(Employee emp in employees)
 
 #region Fetching Data from the dictionary
 string key = "CEO";
+string keyToRemove = "CEO";
 
 if (employeesDirectory.ContainsKey(key))
 {
@@ -194,6 +196,17 @@ if (employeesDirectory.ContainsKey(key))
 else
 {
     Console.WriteLine("This key does not exists in the dictionary!");
+}
+
+//Remove
+
+if (employeesDirectory.Remove(keyToRemove))
+{
+    Console.WriteLine("\nThe employee ({0}) was removed!", keyToRemove);
+}
+else
+{
+    Console.WriteLine("\nNo employee found with this key!");
 }
 
 Employee result = null;
@@ -210,6 +223,7 @@ for(int i = 0; i < employeesDirectory.Count; i++)
     //Using ElementAt(i) to return key-type value stored at i index
     KeyValuePair<string, Employee> keyValuePair = employeesDirectory.ElementAt(i);
     //printing key
+    Console.WriteLine("\n");
     Console.WriteLine("Key {0}", keyValuePair.Key);
 
     Employee employeeValue = keyValuePair.Value;
@@ -217,6 +231,19 @@ for(int i = 0; i < employeesDirectory.Count; i++)
     //printing the properties of the employee object
     Console.WriteLine("Emp Name: {0}", employeeValue.Name);
 }
+
+//Changing data contained in key
+string keyToUpdate = "HR";
+
+if (employeesDirectory.ContainsKey(keyToUpdate))
+{
+    employeesDirectory[keyToUpdate] = new Employee("HR", "Holly", 36, 18);
+    Console.WriteLine("\nNEW HR employee: {0}", employeesDirectory[keyToUpdate].Name);
+} else
+{
+    Console.WriteLine("\nNo employee found with this key!");
+}
+
 
 #endregion
 
@@ -247,3 +274,42 @@ class Employee
         this.Rate = rate;
     }
 }
+*/
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+
+/*
+ * Dictionary challange
+
+
+using System;
+using System.Collections.Generic;
+
+namespace Coding.Exercise
+{
+    public class Speller
+    {
+        public static string Convert(int i)
+        {
+            Dictionary<int, string> keyValuePairs = new Dictionary<int, string>()
+            {
+                {0, "zero" },
+                {1,"one" },
+                {2,"two"},
+                {3,"three"},
+                {4, "four" },
+                {5, "five" }
+            };
+
+            if(keyValuePairs.ContainsKey(i))
+            {
+                return keyValuePairs[i];
+            }
+            else
+            {
+                return "nope";
+            }
+        }
+    }
+}
+ */
