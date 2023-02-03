@@ -313,3 +313,245 @@ namespace Coding.Exercise
     }
 }
  */
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+
+/*
+ * Stacks:
+ * 
+ * Data can be added and removed from top
+ * can't access the elements in the middle
+ * first come last out or last in, first out (Last in is first out - LIFO)
+ * 
+ * Examples of uses:
+ * Reversin data
+ * web browser "back" button
+ * Undo/Redo buttons
+ * 
+ * Operations:
+ * Push(Object object)
+ * Pop()
+ * Peek()
+
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        //Defining a new stack
+        Stack<int> stack = new Stack<int>(); //Integer stack
+
+        stack.Push(42);
+        stack.Push(13);
+
+        //Peek() will return the element at the top of the stack without removing it
+        Console.WriteLine("Top value: {0}", stack.Peek());
+
+        //Pop() will remove the value of the top
+        if(stack.Count > 0) //Assuring that the stack is not empty
+        {
+            int removedItem = stack.Pop();
+            Console.WriteLine("After removing {0}, the new top value is: {1}", removedItem, stack.Peek());
+        }
+
+        //Clear() removes all the elements of the stack
+        stack.Clear();
+
+
+        Console.WriteLine("\n_________________________________________________\n");
+
+        int count = 0;
+        while (count <= 10)
+        {
+            stack.Push(count);
+            count++;
+        }
+
+        //Example:
+        while (stack.Count > 1)
+        {
+            int removedItem = stack.Pop();
+            Console.WriteLine("After removing {0}, the new top value is: {1}", removedItem, stack.Peek());
+        }
+
+        //Clear() removes all the elements of the stack
+        stack.Clear();
+
+
+        Console.WriteLine("\n_________________________________________________\n");
+
+        //Reversing an array of integers
+        int[] numbers = new int[] {1,2,3,4,5};
+
+        Console.WriteLine("Array: ");
+        foreach (int number in numbers)
+        {
+            Console.Write(number + " ");
+
+            stack.Push(number);
+        }
+
+        Console.WriteLine("\n\nReversed Array: ");
+        foreach (int number in stack)
+        {
+            Console.Write(number + " ");
+        }
+
+        stack.Clear();
+
+        Console.WriteLine("\n_________________________________________________\n");
+    }
+}
+ */
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+
+/*
+ * Queues
+ * 
+ * Data can be added from the rear (back) and removed from the front
+ * Can't access the elements in the middle
+ * first in first out (FIFO)
+ * 
+ * Examples of Using:
+ * OS requests
+ * Managing web requests in a server
+ * Queuing input in a video game
+ * 
+ * Operations:
+ * Enqueue(Object object)
+ * Object Dequeue()
+ * Object Peek()
+
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        //Defining a Queue
+        Queue<int> queue = new Queue<int>();
+
+        //Adding data to the queue
+        queue.Enqueue(1);
+        queue.Enqueue(2);
+        queue.Enqueue(3);
+        queue.Enqueue(4);
+
+        //Printing the front of the queue
+        Console.WriteLine("Queue first item: {0}", queue.Peek());
+
+        //removing the item from the queue
+        int item = queue.Dequeue();
+        Console.WriteLine("{0} was removed from the queue! Next item is: {1}",item, queue.Peek());
+
+        //Removing all the items from the queue
+        queue.Clear();
+
+        Console.WriteLine("\n_________________________________________________\n");
+
+        int count = 0;
+        while(count <= 10)
+        {
+            queue.Enqueue(count);
+            count++;
+        }
+
+        while(queue.Count > 0) //While queue is not empty
+        {
+            item = queue.Dequeue();
+            Console.Write("{0} was removed from the queue! ", item);
+            if(queue.Count > 0)
+            {
+                Console.Write("Next item is {0}", queue.Peek());
+            }
+            else
+            {
+                Console.WriteLine("The queue is now empty!");
+            }
+            Console.WriteLine();
+        }
+
+        queue.Clear();
+
+        Console.WriteLine("\n_________________________________________________\n");
+
+
+        static Order[] ReciveOrdersFromBranch1()
+        {
+            Order[] orders = new Order[]
+            {
+                new Order(1,5),
+                new Order(2,6),
+                new Order(3,7)
+            };
+            return orders;
+        }
+
+        static Order[] ReciveOrdersFromBranch2()
+        {
+            Order[] orders = new Order[]
+            {
+                new Order(3,5),
+                new Order(4,4),
+                new Order(5,10)
+            };
+            return orders;
+        }
+        
+        Queue<Order> ordersQueue = new Queue<Order>();
+
+        Console.WriteLine("Processing first branch:\n");
+
+        foreach (Order or in ReciveOrdersFromBranch1())
+        {
+            ordersQueue.Enqueue(or);
+        }
+
+        while(ordersQueue.Count > 0){
+            Order processedOrder = ordersQueue.Dequeue();
+            processedOrder.ProcessOrder();
+        }
+
+
+        if(ordersQueue.Count == 0) 
+        {
+            Console.WriteLine("\nProcessing second branch:\n");
+
+            foreach (Order or in ReciveOrdersFromBranch2())
+            {
+                ordersQueue.Enqueue(or);
+            }
+        }
+
+
+        while (ordersQueue.Count > 0)
+        {
+            Order processedOrder = ordersQueue.Dequeue();
+            processedOrder.ProcessOrder();
+        }
+    }
+
+    class Order
+    {
+        //order ID
+        public int OrderId { get; set; }
+
+        //quantity of the order
+        public int OrderQuantity { get; set; }
+
+        //Order Constructor
+        public Order(int id, int orderQuantity)
+        {
+            this.OrderId = id;
+            this.OrderQuantity = orderQuantity;
+        }
+
+        //printing message that the order was processed
+        public void ProcessOrder()
+        {
+            Console.WriteLine($"Order {OrderId} processed! The quantity was: {OrderQuantity}");
+        }
+    }
+}
+*/
