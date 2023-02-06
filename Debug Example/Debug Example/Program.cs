@@ -68,7 +68,8 @@ namespace Debugging
         public static void Main(string[] args)
         {
             var friends = new List<string> { "Frank", "Joe", "Michelle", "Andy", "Maia", "Carlos", "Angelina" };
-            var partyFriends = GetPartyFriends(friends, 3);
+            
+            var partyFriends = GetPartyFriends(friends, 1);
 
             foreach (var name in partyFriends)
             {
@@ -78,13 +79,28 @@ namespace Debugging
 
         public static List<string> GetPartyFriends(List<string> list, int count)
         {
+            if(list == null)
+            {
+                throw new ArgumentNullException("list", "The list is empty!");
+            }
+            if(count > list.Count)
+            {
+                throw new ArgumentOutOfRangeException("count", "Count cannot be geater than the list size!");
+            }
+            else if(count <= 0)
+            {
+                throw new Exception("Count need's to be greater than zero!");
+            }
+            
+
+            var buffer = new List<string>(list);
             var partyFriends = new List<string>();
 
             while (partyFriends.Count < count)
             {
-                var currentFriend = GetPartyFriend(list);
+                var currentFriend = GetPartyFriend(buffer);
                 partyFriends.Add(currentFriend);
-                list.Remove(currentFriend);
+                buffer.Remove(currentFriend);
             }
             return partyFriends;
         }

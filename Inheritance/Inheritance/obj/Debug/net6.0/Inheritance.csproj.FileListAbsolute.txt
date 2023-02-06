@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+D:\Visual Studio\Projects\Csharp-Udemy\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
