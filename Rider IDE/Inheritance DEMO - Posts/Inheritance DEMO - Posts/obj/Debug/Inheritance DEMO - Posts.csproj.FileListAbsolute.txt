@@ -1,0 +1,7 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance DEMO - Posts\Inheritance DEMO - Posts\bin\Debug\Inheritance_DEMO___Posts.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance DEMO - Posts\Inheritance DEMO - Posts\bin\Debug\Inheritance_DEMO___Posts.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance DEMO - Posts\Inheritance DEMO - Posts\obj\Debug\Inheritance DEMO - Posts.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance DEMO - Posts\Inheritance DEMO - Posts\obj\Debug\Inheritance DEMO - Posts.csproj.SuggestedBindingRedirects.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance DEMO - Posts\Inheritance DEMO - Posts\obj\Debug\Inheritance DEMO - Posts.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance DEMO - Posts\Inheritance DEMO - Posts\obj\Debug\Inheritance_DEMO___Posts.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance DEMO - Posts\Inheritance DEMO - Posts\obj\Debug\Inheritance_DEMO___Posts.pdb

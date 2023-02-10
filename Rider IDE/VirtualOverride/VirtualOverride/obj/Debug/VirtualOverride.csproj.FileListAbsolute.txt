@@ -1,0 +1,7 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\VirtualOverride\VirtualOverride\bin\Debug\VirtualOverride.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\VirtualOverride\VirtualOverride\bin\Debug\VirtualOverride.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\VirtualOverride\VirtualOverride\obj\Debug\VirtualOverride.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\VirtualOverride\VirtualOverride\obj\Debug\VirtualOverride.csproj.SuggestedBindingRedirects.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\VirtualOverride\VirtualOverride\obj\Debug\VirtualOverride.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\VirtualOverride\VirtualOverride\obj\Debug\VirtualOverride.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\VirtualOverride\VirtualOverride\obj\Debug\VirtualOverride.pdb
