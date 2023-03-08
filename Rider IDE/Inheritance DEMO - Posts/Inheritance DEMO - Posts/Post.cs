@@ -4,7 +4,7 @@ namespace Inheritance_DEMO___Posts
 {
     public class Post
     {
-        private static int postID;
+        private static int currentPostId;
         
         //Properties
         protected int Id { get; set; }
@@ -25,15 +25,15 @@ namespace Inheritance_DEMO___Posts
         //Constructor
         public Post(string title, bool isPublic, string sendByUsername)
         {
-            this.Id = GetNextID();
+            this.Id = GetNextId();
             this.Title = title;
             this.IsPublic = isPublic;
             this.SendByUsername = sendByUsername;
         }
 
-        protected int GetNextID()
+        protected int GetNextId()
         {
-            return ++Id;
+            return ++currentPostId;
         }
 
         public void Update(string title, bool isPublic)

@@ -10,7 +10,7 @@ namespace Inheritance_DEMO___Posts
 
         public ImagePost(string title, string sendByUsername, string imageUrl, bool isPublic)
         {
-            this.Id = GetNextID();
+            this.Id = GetNextId();
             this.Title = title;
             this.SendByUsername = sendByUsername;
             this.IsPublic = isPublic;

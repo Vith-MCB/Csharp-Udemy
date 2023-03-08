@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Employees Bosses and Trainees/1.0.0": {
+        "runtime": {
+          "Employees Bosses and Trainees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employees Bosses and Trainees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

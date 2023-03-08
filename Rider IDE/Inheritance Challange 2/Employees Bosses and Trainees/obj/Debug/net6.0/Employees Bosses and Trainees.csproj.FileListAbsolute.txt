@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\bin\Debug\net6.0\Employees Bosses and Trainees.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\bin\Debug\net6.0\Employees Bosses and Trainees.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\bin\Debug\net6.0\Employees Bosses and Trainees.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\bin\Debug\net6.0\Employees Bosses and Trainees.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\bin\Debug\net6.0\Employees Bosses and Trainees.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\Employees Bosses and Trainees.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\Employees Bosses and Trainees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\Employees Bosses and Trainees.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\Employees Bosses and Trainees.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\Employees Bosses and Trainees.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\Employees Bosses and Trainees.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\refint\Employees Bosses and Trainees.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\Employees Bosses and Trainees.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\Employees Bosses and Trainees.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritance Challange 2\Employees Bosses and Trainees\obj\Debug\net6.0\ref\Employees Bosses and Trainees.dll
