@@ -4,24 +4,38 @@ public class Employee
 {
     public string Name { get; set; }
     public string FirstName { get; set; }
-    protected float Salary { get; set; }
+    protected double Salary { get; set; }
     
     //Generic constructor
+    public Employee(){}
     
-    
+    //Constructor
+    public Employee(string name, double salary)
+    {
+        this.Name = name;
+        this.FirstName = SplitName(name);
+        this.Salary = salary;
+    }
 
-    protected bool IsWorking = false;
+    public string SplitName(string name)
+    {
+        string[] splitedName;
+        splitedName = name.Split(" ");
+        return splitedName[0];
+    }
 
-    public void Work()
+    public bool IsWorking = false;
+
+    public virtual void Work()
     {
         if (!IsWorking)
         {
             IsWorking = true;
-            Console.WriteLine("Working!");
+            Console.WriteLine("({0}) is Working!", FirstName);
         }
         else
         {
-            Console.WriteLine("Employee is already working!");
+            Console.WriteLine("Employee ({0}) is already working!", FirstName);
         }
     }
 
@@ -30,7 +44,11 @@ public class Employee
         if (IsWorking)
         {
             IsWorking = false;
-            Console.WriteLine("Working!");
+            Console.WriteLine("({0}) Stoped working!", FirstName);
+        }
+        else
+        {
+            Console.WriteLine("Employee ({0}) is not working!", FirstName);
         }
     }
 }
