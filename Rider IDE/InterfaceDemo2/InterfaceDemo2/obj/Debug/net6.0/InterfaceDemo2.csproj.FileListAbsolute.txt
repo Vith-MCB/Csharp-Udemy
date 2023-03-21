@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\bin\Debug\net6.0\InterfaceDemo2.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\refint\InterfaceDemo2.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\InterfaceDemo2.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\InterfaceDemo2\InterfaceDemo2\obj\Debug\net6.0\ref\InterfaceDemo2.dll

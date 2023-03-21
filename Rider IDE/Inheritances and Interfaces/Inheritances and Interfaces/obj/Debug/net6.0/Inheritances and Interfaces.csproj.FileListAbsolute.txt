@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\bin\Debug\net6.0\Inheritances and Interfaces.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\bin\Debug\net6.0\Inheritances and Interfaces.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\bin\Debug\net6.0\Inheritances and Interfaces.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\bin\Debug\net6.0\Inheritances and Interfaces.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\bin\Debug\net6.0\Inheritances and Interfaces.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\Inheritances and Interfaces.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\Inheritances and Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\Inheritances and Interfaces.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\Inheritances and Interfaces.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\Inheritances and Interfaces.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\Inheritances and Interfaces.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\refint\Inheritances and Interfaces.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\Inheritances and Interfaces.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\Inheritances and Interfaces.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Inheritances and Interfaces\Inheritances and Interfaces\obj\Debug\net6.0\ref\Inheritances and Interfaces.dll
