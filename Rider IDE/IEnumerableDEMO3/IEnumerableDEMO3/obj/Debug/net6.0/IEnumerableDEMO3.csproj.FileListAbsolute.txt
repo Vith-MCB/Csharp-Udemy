@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\bin\Debug\net6.0\IEnumerableDEMO3.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\bin\Debug\net6.0\IEnumerableDEMO3.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\bin\Debug\net6.0\IEnumerableDEMO3.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\bin\Debug\net6.0\IEnumerableDEMO3.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\bin\Debug\net6.0\IEnumerableDEMO3.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\IEnumerableDEMO3.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\IEnumerableDEMO3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\IEnumerableDEMO3.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\IEnumerableDEMO3.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\IEnumerableDEMO3.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\IEnumerableDEMO3.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\refint\IEnumerableDEMO3.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\IEnumerableDEMO3.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\IEnumerableDEMO3.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\IEnumerableDEMO3\IEnumerableDEMO3\obj\Debug\net6.0\ref\IEnumerableDEMO3.dll
