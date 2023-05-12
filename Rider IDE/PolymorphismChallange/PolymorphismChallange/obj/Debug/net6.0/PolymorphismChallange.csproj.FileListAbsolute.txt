@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\bin\Debug\net6.0\PolymorphismChallange.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\bin\Debug\net6.0\PolymorphismChallange.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\bin\Debug\net6.0\PolymorphismChallange.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\bin\Debug\net6.0\PolymorphismChallange.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\bin\Debug\net6.0\PolymorphismChallange.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\PolymorphismChallange.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\PolymorphismChallange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\PolymorphismChallange.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\PolymorphismChallange.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\PolymorphismChallange.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\PolymorphismChallange.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\refint\PolymorphismChallange.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\PolymorphismChallange.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\PolymorphismChallange.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\PolymorphismChallange\PolymorphismChallange\obj\Debug\net6.0\ref\PolymorphismChallange.dll
