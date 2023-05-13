@@ -14,58 +14,6 @@
 
 using PolymorphismChallange;
 
-public class BMW : Car
-{
-  public int HP { get; set; }
-  public string Color { get; set; }
-  
-  public string Model { get; set; }
-
-  private string brand = "BMW";
-  
-  //Constructor
-  public BMW(int hp, string color, string model) : base(hp,color)
-  {
-      this.Model = model;
-  }
-  
-  public override void ShowDetails()
-  {
-      Console.WriteLine("Car HP: {0}| Car color: {1} | Car Model: {2} | Brand: {3}", HP, Color, Model, brand);
-  }
-  
-  public override void Repair()
-  {
-      Console.WriteLine("BMW was repaired!");
-  }
-}
-
-public class Audi : Car
-{
-    public int HP { get; set; }
-    public string Color { get; set; }
-  
-    public string Model { get; set; }
-
-    private string brand = "AUDI";
-  
-    //Constructor
-    public Audi(int hp, string color, string model) : base(hp,color)
-    {
-        this.Model = model;
-    }
-  
-    public override void ShowDetails()
-    {
-        Console.WriteLine("Car HP: {0}| Car color: {1} | Car Model: {2} | Brand: {3}", HP, Color, Model, brand);
-    }
-
-    public override void Repair()
-    {
-        Console.WriteLine("Audi was repaired!");
-    }
-}
-
 class Program
 {
     static void Main(string[] args)
@@ -77,6 +25,9 @@ class Program
         Audi carAudi = new Audi(37, "white", "A8");
         carAudi.ShowDetails();
         carAudi.Repair();
+        //Using relationship in a inherited class
+        carAudi.SetCarIDInfo(12,"Vitor");
+        carAudi.GetIDInfo();
 
         var cars = new List<Car>
         {
