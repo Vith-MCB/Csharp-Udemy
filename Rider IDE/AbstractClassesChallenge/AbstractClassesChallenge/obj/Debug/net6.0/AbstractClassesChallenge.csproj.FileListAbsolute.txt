@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\refint\AbstractClassesChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AbstractClassesChallenge\AbstractClassesChallenge\obj\Debug\net6.0\ref\AbstractClassesChallenge.dll

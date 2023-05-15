@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\bin\Debug\net6.0\FileIOChallenge.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\bin\Debug\net6.0\FileIOChallenge.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\bin\Debug\net6.0\FileIOChallenge.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\bin\Debug\net6.0\FileIOChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\bin\Debug\net6.0\FileIOChallenge.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\FileIOChallenge.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\FileIOChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\FileIOChallenge.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\FileIOChallenge.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\FileIOChallenge.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\FileIOChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\refint\FileIOChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\FileIOChallenge.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\FileIOChallenge.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileIOChallenge\FileIOChallenge\obj\Debug\net6.0\ref\FileIOChallenge.dll

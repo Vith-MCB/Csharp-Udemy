@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassesChallenge", "AbstractClassesChallenge\AbstractClassesChallenge.csproj", "{A4546D29-71E9-4E72-819F-84FF61B98459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4546D29-71E9-4E72-819F-84FF61B98459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4546D29-71E9-4E72-819F-84FF61B98459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4546D29-71E9-4E72-819F-84FF61B98459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4546D29-71E9-4E72-819F-84FF61B98459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
