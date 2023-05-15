@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\bin\Debug\net6.0\FileChallenge.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\refint\FileChallenge.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\FileChallenge.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\FileChallenge\FileChallenge\obj\Debug\net6.0\ref\FileChallenge.dll
