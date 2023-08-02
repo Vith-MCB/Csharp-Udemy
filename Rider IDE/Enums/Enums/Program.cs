@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Enums
 
-Console.WriteLine("Hello, World!");
+WeekDays fr = WeekDays.Fr; 
+Console.WriteLine(fr);
+
+//Checking the position
+Console.WriteLine((int)fr);
+
+enum WeekDays {Mo = 1, Tu, We, Th, Fr, Sa, Su};

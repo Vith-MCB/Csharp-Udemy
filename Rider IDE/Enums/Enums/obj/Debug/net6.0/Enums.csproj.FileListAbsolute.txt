@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\bin\Debug\net6.0\Enums.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\bin\Debug\net6.0\Enums.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\bin\Debug\net6.0\Enums.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\bin\Debug\net6.0\Enums.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\Enums.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\refint\Enums.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\Enums.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Enums\Enums\obj\Debug\net6.0\ref\Enums.dll
