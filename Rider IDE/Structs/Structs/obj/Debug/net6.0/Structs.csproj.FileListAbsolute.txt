@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\bin\Debug\net6.0\Structs.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\bin\Debug\net6.0\Structs.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\bin\Debug\net6.0\Structs.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\bin\Debug\net6.0\Structs.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\Structs.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\Structs.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\refint\Structs.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\Structs.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Structs\Structs\obj\Debug\net6.0\ref\Structs.dll
