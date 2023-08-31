@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\bin\Debug\net6.0\MathClass.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\bin\Debug\net6.0\MathClass.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\bin\Debug\net6.0\MathClass.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\bin\Debug\net6.0\MathClass.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\bin\Debug\net6.0\MathClass.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\MathClass.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\MathClass.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\MathClass.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\MathClass.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\MathClass.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\refint\MathClass.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\MathClass.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\MathClass.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\MathClass\MathClass\obj\Debug\net6.0\ref\MathClass.dll
