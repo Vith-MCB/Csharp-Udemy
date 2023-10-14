@@ -24,7 +24,7 @@ foreach (string name in names)
 {
     Console.WriteLine(name);
 }
-*/
+
 
 //Creating Delegates
 
@@ -74,6 +74,49 @@ internal class Program
         static bool IsAdult(Person per)
         {
             return per.Age >= 18;
+        }
+    }
+}
+*/
+/* 
+Delegates
+#########################################
+
+Please, avoid changing the source code for the exercise!
+
+#########################################
+
+
+
+Hands-on Delegates!
+
+
+
+Subject:
+
+Create a public delegate that will be called OperationDelegate and will get two arguments with float type and return float as well;
+
+Create 4 static public methods called Add, Subtract, Multiply, and Divide. All of them should get 2 arguments and return a float that corresponds to the result of the performed operation;
+
+Create a public static ApplyOperation method that gets 2 floats and one delegate and applies the operation to those values and returns the result as a float;
+*/
+
+using System;
+
+
+namespace Coding.Exercise
+{
+    public class Run
+    {
+        public delegate float OperationDelegate(float arg1, float arg2);
+        
+        public static float Add(float a, float b){return a+b;}
+        public static float Subtract(float a, float b){return a-b;}
+        public static float Multiply(float a, float b){return a*b;}
+        public static float Divide(float a, float b){return a/b;}
+        
+        public static float ApplyOperation(float opArg1, float opArg2, OperationDelegate filter){
+            return filter(opArg1,opArg2);
         }
     }
 }
