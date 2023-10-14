@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\bin\Debug\net6.0\AnonymousMethods and LambdaExpressions.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\bin\Debug\net6.0\AnonymousMethods and LambdaExpressions.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\bin\Debug\net6.0\AnonymousMethods and LambdaExpressions.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\bin\Debug\net6.0\AnonymousMethods and LambdaExpressions.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\bin\Debug\net6.0\AnonymousMethods and LambdaExpressions.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\AnonymousMethods and LambdaExpressions.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\AnonymousMethods and LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\AnonymousMethods and LambdaExpressions.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\AnonymousMethods and LambdaExpressions.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\AnonymousMethods and LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\AnonymousMethods and LambdaExpressions.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\refint\AnonymousMethods and LambdaExpressions.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\AnonymousMethods and LambdaExpressions.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\AnonymousMethods and LambdaExpressions.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\AnonymousMethods and LambdaExpressions\AnonymousMethods and LambdaExpressions\obj\Debug\net6.0\ref\AnonymousMethods and LambdaExpressions.dll
