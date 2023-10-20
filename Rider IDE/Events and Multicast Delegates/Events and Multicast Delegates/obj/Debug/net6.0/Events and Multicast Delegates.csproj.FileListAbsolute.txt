@@ -1,0 +1,15 @@
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net6.0\Events and Multicast Delegates.exe
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net6.0\Events and Multicast Delegates.deps.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net6.0\Events and Multicast Delegates.runtimeconfig.json
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net6.0\Events and Multicast Delegates.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net6.0\Events and Multicast Delegates.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\Events and Multicast Delegates.csproj.AssemblyReference.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\Events and Multicast Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\Events and Multicast Delegates.AssemblyInfoInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\Events and Multicast Delegates.AssemblyInfo.cs
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\Events and Multicast Delegates.csproj.CoreCompileInputs.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\Events and Multicast Delegates.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\refint\Events and Multicast Delegates.dll
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\Events and Multicast Delegates.pdb
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\Events and Multicast Delegates.genruntimeconfig.cache
+D:\Programação\GitHub\Csharp-Udemy\Rider IDE\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net6.0\ref\Events and Multicast Delegates.dll
